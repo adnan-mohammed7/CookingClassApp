@@ -1,0 +1,40 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" translatable="false">Cooking Class App</string>
+    <string name="title_home" translatable="false">Home</string>
+    <string name="title_recipes" translatable="false">Recipes</string>
+    <string name="title_timer" translatable="false">Timer</string>
+    <string name="title_feedback" translatable="false">Feedback</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_tips">1. Always preheat your pan before adding oil to prevent food from sticking.\n 2. Make sure you have all the required ingredients for the dish in your inventory.\n 3. Always marinate the meat and keep it in refrigerator for at least 1 hour.\n 4. Use a sharp knife to speed up and get cleaner and desired shape.\n 5. Taste your dish frequently during cooking to make sure the seasoning is well balanced.</string>
+    <string name="home_tipsTitle">TIPS</string>
+    <string name="home_introduction">Welcome to Cooking Class\n By using this app you will be able to make delicious food at home without any problem. This app allows you to check all the ingredients needed and it also provides you step by step instruction of how to cook that dish. You can always check the time needed to cook the dish and start the timer once you are ready.</string>
+    <string name="ratings">Ratings</string>
+    <string name="feedback_cookingNotes_title">Cooking Notes or Review</string>
+    <string name="feedback_notes_hint">Write your notes or review here</string>
+    <string name="feedback_community">Share feedback with the community</string>
+    <string name="submit">Submit</string>
+    <string name="omelette_image_url" tools:ignore="TypographyDashes"><![CDATA[https://images.unsplash.com/photo-1613503867414-2d986403d2f3?q=80&w=1912&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D]]></string>
+    <string name="ingredients">Ingredients</string>
+    <string name="instructions">Instructions</string>
+    <string name="start_timer">Start Timer</string>
+    <string name="tea_image_url" tools:ignore="TypographyDashes"><![CDATA[https://images.unsplash.com/photo-1530219149-6b15097e9af3?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D]]></string>
+    <string name="omelette_instructions_desc">1. Whisk eggs in a bowl with salt and pepper.\n2. Heat butter in a pan over medium heat.\n3.Pour the eggs into the pan.\n4.Cook until the edges set, then add optional fillings.\n5.Fold the omelette in half and cook for another minute.\n6.Serve hot.</string>
+    <string name="tea_instructions_desc" tools:ignore="TypographyDashes">1. Boil water in a pot.\n2. Add tea leaves or tea bag to the boiling water.\n3. Add sugar, milk, and optional spices like ginger or cardamom.\n4. Simmer for 3-5 minutes.\n5. Strain and serve hot.</string>
+    <string name="oatmeal_image_url"><![CDATA[https://cdn.pixabay.com/photo/2014/10/13/15/31/muesli-486832_1280.jpg]]></string>
+    <string name="oatmeal_ingredients">1 cup rolled oats\n2 cups milk\n1 tbsp honey\nPinch of salt\nHandful of sliced strawberries and almonds</string>
+    <string name="oatmeal_instructions_desc">1. Bring milk to a boil in a pot.\n2. Add oats and a pinch of salt, reduce heat, and simmer for 5 minutes.\n3. Stir in honey.\n4. Serve in a bowl,add sliced strawberries and almonds for topping.</string>
+    <string name="start">Start</string>
+    <string name="pause">Pause</string>
+    <string name="re_start">Restart</string>
+    <string name="baseTime">00:00</string>
+    <string name="omelette_ingredients"><![CDATA[2 eggs\n1 tbsp butter\nSalt and pepper to taste\nOptional: chopped vegetables & cheese]]></string>
+    <string name="tea_ingredients">1 cup water\n1 tsp tea leaves or tea bag\n1 tsp sugar\n1/2 cup milk\nOptional: Ginger or cardamom</string>
+    <string name="resume">Resume</string>
+    <string name="image1" tools:ignore="Typos">Image1</string>
+    <string name="image2">Image2</string>
+    <string name="image3">Image3</string>
+    <string name="preparation">Preparation</string>
+    <string name="cooking">Cooking</string>
+    <string name="resting">Resting</string>
+</resources>
